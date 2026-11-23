@@ -1,0 +1,2 @@
+# Proyecto desarrollado exclusivamente con la biblioteca estandar de Python 3.x
+# No requiere instalacion de paquetes externos.
